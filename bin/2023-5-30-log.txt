@@ -1,0 +1,6 @@
+13:57:0 => first log message!
+13:57:0 => /home/chuan/桌面/test/mprpc/example/callee/friendservice.cc:main:38
+14:8:4 => [error] first log message!
+14:8:4 => [info] /home/chuan/桌面/test/mprpc/example/callee/friendservice.cc:main:38
+14:8:4 => [info] service_name:FriendServiceRpc
+14:8:4 => [info] method_name:GetFriendsList
